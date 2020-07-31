@@ -1,0 +1,4 @@
+1. index page is blank
+2. Services Page is blank
+3. If I click signup without entering anything, account is being created. Keep html validators
+4. Create a logo
